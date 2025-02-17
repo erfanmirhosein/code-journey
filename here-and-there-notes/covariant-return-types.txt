@@ -1,0 +1,2 @@
+An overriding method can also return a subtype of the type returned by the overridden method.
+This subtype is called a covariant return type.
