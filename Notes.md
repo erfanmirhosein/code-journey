@@ -7,4 +7,5 @@
     - Chapter 2, Decomposition Strategies: done
     - Chapter 3, IPC:
         - 3.1: done
-        - 3.2: up until 3.2.3
+        - 3.2: done
+        - 3.3: in-progress
