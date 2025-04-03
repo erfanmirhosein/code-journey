@@ -1,0 +1,11 @@
+FROM A STACKOVERFLOW ANSWER:
+
+Hibernate manages cascade operations itself manually. What is more, if you would make cascades on database, and not declare them in Hibernate (for performance issues) you could in some circumstances get errors. This is because Hibernate stores entities in its session cache, so it would not know about database deleting something in cascade.
+
+When you use second-level cache, your situation is even worse, because this cache lives longer than session and such changes on db-side will be invisible to other sessions as long old values are stored in this cache.
+
+I've read a bit Hibernate sources (really unpleasant experience) and I doubt it is under any circumstances possible to manage cascades on database side - there are too many assumptions made by Hibernate design that are incompatibile with DB reality.Hibernate manages cascade operations itself manually. What is more, if you would make cascades on database, and not declare them in Hibernate (for performance issues) you could in some circumstances get errors. This is because Hibernate stores entities in its session cache, so it would not know about database deleting something in cascade.
+
+When you use second-level cache, your situation is even worse, because this cache lives longer than session and such changes on db-side will be invisible to other sessions as long old values are stored in this cache.
+
+I've read a bit Hibernate sources (really unpleasant experience) and I doubt it is under any circumstances possible to manage cascades on database side - there are too many assumptions made by Hibernate design that are incompatibile with DB reality.
