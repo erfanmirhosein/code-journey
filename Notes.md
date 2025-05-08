@@ -9,3 +9,5 @@
         - 3.1: done
         - 3.2: done
         - 3.3: in-progress, read up untill 3.3.4, page 92, borker-based messaging
+- the Go programming language book:
+    - Chapter 1, up untill page 3
