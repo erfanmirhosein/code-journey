@@ -13,3 +13,5 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 1, up untill page 4, Command-Line Arguments
 - **Effective Java:**
     - Item 1, up until the middle of page 26, the fourth advantage of having static factory methods.
+- **The DDD Book":**
+    - up until page 5, where it talks about google.
