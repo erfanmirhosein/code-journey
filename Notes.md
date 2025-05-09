@@ -10,6 +10,6 @@ This document will be updated over time so I can track my progress in each topic
         - 3.2: done
         - 3.3: in-progress, read up untill 3.3.4, page 93, BENEFITS AND DRAWBACKS OF BROKER-BASED MESSAGING
 - **The Go Pogramming Language Book:**
-    - Chapter 1, up untill page 3
+    - Chapter 1, up untill page 4, Command-Line Arguments
 - **Effective Java:**
     - Item 1, up until the middle of page 26, the fourth advantage of having static factory methods.
