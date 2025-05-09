@@ -8,7 +8,7 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 3, IPC:
         - 3.1: done
         - 3.2: done
-        - 3.3: in-progress, read up untill 3.3.4, page 92, borker-based messaging
+        - 3.3: in-progress, read up untill 3.3.4, page 93, BENEFITS AND DRAWBACKS OF BROKER-BASED MESSAGING
 - **The Go Pogramming Language Book:**
     - Chapter 1, up untill page 3
 - **Effective Java:**
