@@ -10,7 +10,7 @@ This document will be updated over time so I can track my progress in each topic
         - 3.2: done
         - 3.3: in-progress, read up untill 3.3.4, page 93, BENEFITS AND DRAWBACKS OF BROKER-BASED MESSAGING
 - **The Go Pogramming Language Book:**
-    - Chapter 1, up untill page 4, Command-Line Arguments
+    - Chapter 1, up untill page 5, The var de clarat ion declares...
 - **Effective Java:**
     - Item 1, up until the middle of page 27, A fifth advantage of static....
 - **The DDD Book":**
