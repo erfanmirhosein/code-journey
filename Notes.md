@@ -12,6 +12,6 @@ This document will be updated over time so I can track my progress in each topic
 - **The Go Pogramming Language Book:**
     - Chapter 1, up untill page 4, Command-Line Arguments
 - **Effective Java:**
-    - Item 1, up until the middle of page 26, the fourth advantage of having static factory methods.
+    - Item 1, up until the middle of page 27, A fifth advantage of static....
 - **The DDD Book":**
     - up until page 5, where it talks about google.
