@@ -14,4 +14,4 @@ This document will be updated over time so I can track my progress in each topic
 - **Effective Java:**
     - Item 1, up until the middle of page 27, A fifth advantage of static....
 - **The DDD Book":**
-    - up until page 5, where it talks about google.
+    - up until page 6, Generic subdomains.
