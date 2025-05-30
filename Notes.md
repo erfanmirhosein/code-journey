@@ -15,3 +15,4 @@ This document will be updated over time so I can track my progress in each topic
     - Item 1, up until the middle of page 27, A fifth advantage of static....
 - **The DDD Book":**
     - Chapter 1, done
+    - Chapter 2, page 23
