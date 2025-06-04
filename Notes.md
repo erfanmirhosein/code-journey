@@ -8,7 +8,7 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 3, IPC:
         - 3.1: done
         - 3.2: done
-        - 3.3: in-progress, read up untill 3.3.4, page 93, BENEFITS AND DRAWBACKS OF BROKER-BASED MESSAGING
+        - 3.3: in-progress, read up untill 3.3.6, page 95, Handling duplicate messages
 - **The Go Pogramming Language Book:**
     - Chapter 1, up untill page 6, The for loop is the only loop...
 - **Effective Java:**
