@@ -8,7 +8,9 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 3, IPC:
         - 3.1: done
         - 3.2: done
-        - 3.3: in-progress, read up untill 3.3.7, page 99, transaction log tailing
+        - 3.3: done, except for 3.3.8, not important at the moment
+        - 3.4: read this after you've read chapter 4
+    - Chapter 4, Managing Transactions with Sagas:
 - **The Go Pogramming Language Book:**
     - Chapter 1, up untill page 6, The for loop is the only loop...
 - **Effective Java:**
