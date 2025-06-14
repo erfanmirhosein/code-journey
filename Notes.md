@@ -19,4 +19,5 @@ This document will be updated over time so I can track my progress in each topic
 - **The DDD Book":**
     - Chapter 1, done
     - Chapter 2, done
-    - Chapter 3, page 41, Boundaries
+    - Chapter 3, done
+    - Chapter 4,
