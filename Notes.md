@@ -22,4 +22,4 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 3, done
     - Chapter 4:
         - The Shared Kernel model must be revisited
-        - page 54, AntiCorruption Layer
+        - page 56, Seperate ways
