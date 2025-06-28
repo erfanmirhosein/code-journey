@@ -20,6 +20,7 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 1, done
     - Chapter 2, done
     - Chapter 3, done
-    - Chapter 4:
+    - Chapter 4, done
         - The Shared Kernel model must be revisited
-        - page 57, context map
+    - Chapter 5:
+        - page 61, tactical design
