@@ -16,6 +16,7 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 1, up until page 6, The for loop is the only loop...
 - **Effective Java:**
     - Item 1: done
+    - Item 7: in-progress
 - **The DDD Book":**
     - Chapter 1, done
     - Chapter 2, done
@@ -23,4 +24,4 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 4, done
         - The Shared Kernel model must be revisited
     - Chapter 5:
-        - page 61, tactical design
+        - page 67, implicit distributed transactions
