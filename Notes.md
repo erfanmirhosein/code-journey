@@ -24,4 +24,4 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 4, done
         - The Shared Kernel model must be revisited
     - Chapter 5:
-        - page 67, implicit distributed transactions
+        - page 69, Active Record
