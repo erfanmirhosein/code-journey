@@ -23,5 +23,6 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 3, done
     - Chapter 4, done
         - The Shared Kernel model must be revisited
-    - Chapter 5:
-        - page 69, Active Record
+    - Chapter 5, done
+    - Chapter 6:
+        - page 75
