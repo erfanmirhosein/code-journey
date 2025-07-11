@@ -17,7 +17,7 @@ This document will be updated over time so I can track my progress in each topic
 - **Effective Java:**
     - Item 1: done
     - Item 7: done
-    - Item 5, page ..
+    - Item 10, page ..
 - **The DDD Book":**
     - Chapter 1, done
     - Chapter 2, done
@@ -26,4 +26,4 @@ This document will be updated over time so I can track my progress in each topic
         - The Shared Kernel model must be revisited
     - Chapter 5, done
     - Chapter 6:
-        - page 75
+        - page 78 ubiquitous language
