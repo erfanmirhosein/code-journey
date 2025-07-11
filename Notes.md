@@ -16,7 +16,8 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 1, up until page 6, The for loop is the only loop...
 - **Effective Java:**
     - Item 1: done
-    - Item 7: page 47, when programmers first...
+    - Item 7: done
+    - Item 5, page ..
 - **The DDD Book":**
     - Chapter 1, done
     - Chapter 2, done
