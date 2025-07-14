@@ -26,4 +26,4 @@ This document will be updated over time so I can track my progress in each topic
         - The Shared Kernel model must be revisited
     - Chapter 5, done
     - Chapter 6:
-        - page 78 ubiquitous language
+        - page 81 implementation...
