@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/5074063/maven-error-failure-to-transfer
+
+https://stackoverflow.com/questions/79278490/mockito-is-currently-self-attaching-to-enable-the-inline-mock-maker-this-will-n
+
