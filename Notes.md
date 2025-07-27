@@ -26,4 +26,5 @@ This document will be updated over time so I can track my progress in each topic
         - The Shared Kernel model must be revisited
     - Chapter 5, done
     - Chapter 6:
-        - page 89, referencing other entities
+        - the part about referencing other entities (page 89) is worth getting back to
+        - page 91, domain events
