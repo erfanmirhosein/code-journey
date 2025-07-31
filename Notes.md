@@ -27,4 +27,4 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 5, done
     - Chapter 6:
         - the part about referencing other entities (page 89) is worth getting back to
-        - page 91, domain events
+        - page 95, Conclusion
