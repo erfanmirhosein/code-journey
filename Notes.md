@@ -25,6 +25,8 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 4, done
         - The Shared Kernel model must be revisited
     - Chapter 5, done
-    - Chapter 6:
+    - Chapter 6, done
         - the part about referencing other entities (page 89) is worth getting back to
-        - page 95, Conclusion
+    - Chapter 7, skipped for now
+    - Chapter 8,
+
