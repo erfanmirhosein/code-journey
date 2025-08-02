@@ -28,5 +28,6 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 6, done
         - the part about referencing other entities (page 89) is worth getting back to
     - Chapter 7, skipped for now
-    - Chapter 8,
+    - Chapter 8:
+        - page 120...
 
