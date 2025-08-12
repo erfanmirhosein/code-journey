@@ -29,5 +29,5 @@ This document will be updated over time so I can track my progress in each topic
         - the part about referencing other entities (page 89) is worth getting back to
     - Chapter 7, skipped for now
     - Chapter 8:
-        - page 124...
+        - page 126, Dpendency inversion...
 
