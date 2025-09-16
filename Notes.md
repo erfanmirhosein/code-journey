@@ -11,7 +11,7 @@ This document will be updated over time so I can track my progress in each topic
         - 3.3: done, except for 3.3.8, not important at the moment
         - 3.4: read this after you've read chapter 4
     - Chapter 4, Managing Transactions with Sagas:
-        - 4.1: until page 114, using the saga pattern
+        - 4.2.2: until page 122, IMPLEMENTING THE CREATE ORDER SAGA USING ORCHESTRATION
 - **The Go Pogramming Language Book:**
     - Chapter 1, up until page 6, The for loop is the only loop...
 - **Effective Java:**
