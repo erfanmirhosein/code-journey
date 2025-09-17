@@ -11,7 +11,8 @@ This document will be updated over time so I can track my progress in each topic
         - 3.3: done, except for 3.3.8, not important at the moment
         - 3.4: read this after you've read chapter 4
     - Chapter 4, Managing Transactions with Sagas:
-        - 4.2.2: until page 125, SAGA ORCHESTRATION AND TRANSACTIONAL MESSAGING
+        - 4.2: done, but it's worth getting back to later
+        - 4.3:
 - **The Go Pogramming Language Book:**
     - Chapter 1, up until page 6, The for loop is the only loop...
 - **Effective Java:**
