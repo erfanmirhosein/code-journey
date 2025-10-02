@@ -1,7 +1,17 @@
 # Notes
 This document will be updated over time so I can track my progress in each topic and know where to start over when I get back to those documents/topics again.
 - The "concurrency-in-Java-part2" document is incomplete. I'll get back to it later when I have time and continue from the "Atomic Opertaions/Classes" section.
-- Get back to the "caching-fundamentals" document and go over the use cases section with more attention
+- **Caching at Scale with Redis:**
+    - Chapters 1,2,3:
+        - complete, but get back to it especially the use cases section
+    - Chapter4, Basic Caching Strategies:
+        - complete
+    - Chapter5, Advanced Caching...:
+        - covered unitl page 44, Microversrvices.., but you'll have to go over the covered sections
+    - Chapter6, Cahce Scaling:
+        - skipped for now
+    - Chapter7, Cache Consistency:
+        - just started
 - **The Microservices Patterns with Examples in Java Book:**
     - Chapter 1, Escaping Monolithic Hell: needs to be rivisited
     - Chapter 2, Decomposition Strategies: done
@@ -19,7 +29,7 @@ This document will be updated over time so I can track my progress in each topic
     - Item 1: done
     - Item 7: done
     - Item 10, page ..
-- **The DDD Book":**
+- **The Learning Domain Driven Design Book":**
     - Chapter 1, done
     - Chapter 2, done
     - Chapter 3, done
@@ -29,6 +39,6 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter 6, done
         - the part about referencing other entities (page 89) is worth getting back to
     - Chapter 7, skipped for now
-    - Chapter 8:
-        - page 126, Dpendency inversion...
+    - Chapter 8: from this chapter the book was left out in favour of the "Implementing Domain Driven Design Book"
+- **Implementing Domain Driven Design Book":**
 
