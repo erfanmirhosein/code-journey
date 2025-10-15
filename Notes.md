@@ -9,9 +9,7 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter5, Advanced Caching...:
         - covered unitl page 44, Microversrvices.., but you'll have to go over the covered sections
     - Chapter6, Cahce Scaling:
-        - skipped for now
-    - Chapter7, Cache Consistency:
-        - just started
+        - to be started
 - **The Microservices Patterns with Examples in Java Book:**
     - Chapter 1, Escaping Monolithic Hell: needs to be rivisited
     - Chapter 2, Decomposition Strategies: done
