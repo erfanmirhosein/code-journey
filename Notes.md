@@ -3,7 +3,7 @@ This document will be updated over time so I can track my progress in each topic
 - The "concurrency-in-Java-part2" document is incomplete. I'll get back to it later when I have time and continue from the "Atomic Opertaions/Classes" section.
 - **Redis Official Document:**
     - The https://redis.io/docs/latest/develop/using-commands/ section:
-        - Keys and Values: complete
+        - Keys and Values, and Pipelining: complete
     - The https://redis.io/docs/latest/develop/data-types/ section:
         - Strings and Hashes were covered
     - Did you understand the single thread nature of Redis?
