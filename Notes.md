@@ -7,7 +7,10 @@ This document will be updated over time so I can track my progress in each topic
     - The https://redis.io/docs/latest/develop/using-commands/ section:
         - complete
     - The https://redis.io/docs/latest/develop/data-types/ section:
-        - Strings and Hashes were covered
+        - Strings and Hashes were covered.
+        - lists, until common usecases
+        - go over the use cases for field expiration in hashes.
+        - why are sorted sets a bettr fit than lists when you want to access to the middle of a larrge collection?
     - Did you understand the single thread nature of Redis?
     - Learn about Redis persistence and how redis treats transactions when using AOF, and recovery after a partial execution of transaction
 - **Caching at Scale with Redis:**
@@ -16,7 +19,7 @@ This document will be updated over time so I can track my progress in each topic
     - Chapter4, Basic Caching Strategies:
         - complete
     - Chapter5, Advanced Caching...:
-        - covered unitl page 44, Microversrvices.., but you'll have to go over the covered sections
+        - covered until page 44, Microversrvices.., but you'll have to go over the covered sections
     - Chapter6, Cahce Scaling:
         - to be started
 - **The Microservices Patterns with Examples in Java Book:**
