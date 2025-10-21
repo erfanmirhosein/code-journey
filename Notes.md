@@ -7,8 +7,7 @@ This document will be updated over time so I can track my progress in each topic
     - The https://redis.io/docs/latest/develop/using-commands/ section:
         - complete
     - The https://redis.io/docs/latest/develop/data-types/ section:
-        - Strings and Hashes were covered.
-        - lists, until common usecases
+        - Strings, lists, and Hashes were covered.
         - go over the use cases for field expiration in hashes.
         - why are sorted sets a bettr fit than lists when you want to access to the middle of a larrge collection?
     - Did you understand the single thread nature of Redis?
