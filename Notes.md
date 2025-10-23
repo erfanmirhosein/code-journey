@@ -2,15 +2,17 @@
 This document will be updated over time so I can track my progress in each topic and know where to start over when I get back to those documents/topics again.
 - The "concurrency-in-Java-part2" document is incomplete. I'll get back to it later when I have time and continue from the "Atomic Opertaions/Classes" section.
 - **Redis Official Document:**
-    - the https://redis.io/docs/latest/develop/clients/patterns/ section:
-        - 
+    - the https://redis.io/docs/latest/operate/oss_and_stack/management/ section:
+    - the https://redis.io/docs/latest/develop/clients/ section:
+        - secondary indexing: a must read
     - The https://redis.io/docs/latest/develop/using-commands/ section:
         - complete
     - The https://redis.io/docs/latest/develop/data-types/ section:
-        - Strings, lists, sets and Hashes were covered.
+        - Strings, lists, sets, sorted sets and Hashes were covered.
         - go over the use cases for field expiration in hashes.
         - why are sorted sets a bettr fit than lists when you want to access to the middle of a larrge collection?
     - Did you understand the single thread nature of Redis?
+    - use a sorted set to build a sliding-window rate limiter to prevent excessive API requests.
     - Learn about Redis persistence and how redis treats transactions when using AOF, and recovery after a partial execution of transaction
 - **Caching at Scale with Redis:**
     - Chapters 1,2,3:
