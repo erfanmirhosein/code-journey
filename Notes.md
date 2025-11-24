@@ -33,7 +33,7 @@ This document will be updated over time so I can track my progress in each topic
         - 3.4: read this after you've read chapter 4
     - Chapter 4, Managing Transactions with Sagas:
         - 4.2: done, but it's worth getting back to later
-        - 4.3:
+        - 4.3: you must get back to this later on. up until Pessimistic veiew
 - **Effective Java:**
     - Item 1: done
     - Item 7: done
